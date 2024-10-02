@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "nombre": "Elevaciones de pies",
+        "imagen": "https://i.ibb.co/SKQ7yyx/11.png",
+        "tipo": "verde",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 2,
+        "nombre": "Elevaciones de pies",
+        "imagen": "https://i.ibb.co/SKQ7yyx/11.png",
+        "tipo": "amarillo",
+        "repeticiones": "40",
+        "duracion": ""
+    },
+    {
+        "id": 3,
+        "nombre": "Elevaciones de pies",
+        "imagen": "https://i.ibb.co/SKQ7yyx/11.png",
+        "tipo": "rojo",
+        "repeticiones": "60",
+        "duracion": ""
+    },
+    {
+        "id": 4,
+        "nombre": "Abdominales",
+        "imagen": "https://i.ibb.co/CJvJFHW/2.png",
+        "tipo": "verde",
+        "repeticiones": "10",
+        "duracion": ""
+    },
+    {
+        "id": 5,
+        "nombre": "Abdominales",
+        "imagen": "https://i.ibb.co/CJvJFHW/2.png",
+        "tipo": "amarillo",
+        "repeticiones": "20",
+        "duracion": ""
+    },
+    {
+        "id": 6,
+        "nombre": "Abdominales",
+        "imagen": "https://i.ibb.co/CJvJFHW/2.png",
+        "tipo": "rojo",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 7,
+        "nombre": "Flexiones",
+        "imagen": "https://i.ibb.co/nMVyRkx/3.png",
+        "tipo": "verde",
+        "repeticiones": "15",
+        "duracion": ""
+    },
+    {
+        "id": 8,
+        "nombre": "Flexiones",
+        "imagen": "https://i.ibb.co/nMVyRkx/3.png",
+        "tipo": "amarillo",
+        "repeticiones": "20",
+        "duracion": ""
+    },
+    {
+        "id": 9,
+        "nombre": "Flexiones",
+        "imagen": "https://i.ibb.co/nMVyRkx/3.png",
+        "tipo": "rojo",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 10,
+        "nombre": "Planchas",
+        "imagen": "https://i.ibb.co/HC8yM3s/4.png",
+        "tipo": "verde",
+        "repeticiones": "",
+        "duracion": "30"
+    },
+    {
+        "id": 11,
+        "nombre": "Planchas",
+        "imagen": "https://i.ibb.co/HC8yM3s/4.png",
+        "tipo": "amarillo",
+        "repeticiones": "",
+        "duracion": "40"
+    },
+    {
+        "id": 12,
+        "nombre": "Planchas",
+        "imagen": "https://i.ibb.co/HC8yM3s/4.png",
+        "tipo": "rojo",
+        "repeticiones": "",
+        "duracion": "60"
+    },
+    {
+        "id": 13,
+        "nombre": "Sentadillas",
+        "imagen": "https://i.ibb.co/zNCK8hX/5.pngclear",
+        "tipo": "verde",
+        "repeticiones": "15",
+        "duracion": ""
+    },
+    {
+        "id": 14,
+        "nombre": "Sentadillas",
+        "imagen": "https://i.ibb.co/zNCK8hX/5.pngclear",
+        "tipo": "amarillo",
+        "repeticiones": "20",
+        "duracion": ""
+    },
+    {
+        "id": 15,
+        "nombre": "Sentadillas",
+        "imagen": "https://i.ibb.co/zNCK8hX/5.pngclear",
+        "tipo": "rojo",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 16,
+        "nombre": "Carrera estática",
+        "imagen": "https://i.ibb.co/rZmwn0m/6.png",
+        "tipo": "verde",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 17,
+        "nombre": "Carrera estática",
+        "imagen": "https://i.ibb.co/rZmwn0m/6.png",
+        "tipo": "amarillo",
+        "repeticiones": "40",
+        "duracion": ""
+    },
+    {
+        "id": 18,
+        "nombre": "Carrera estática",
+        "imagen": "https://i.ibb.co/rZmwn0m/6.png",
+        "tipo": "rojo",
+        "repeticiones": "60",
+        "duracion": ""
+    },
+    {
+        "id": 19,
+        "nombre": "Elevación de pierna",
+        "imagen": "https://i.ibb.co/Bf4fKGy/15.png",
+        "tipo": "verde",
+        "repeticiones": "10",
+        "duracion": ""
+    },
+    {
+        "id": 20,
+        "nombre": "Elevación de pierna",
+        "imagen": "https://i.ibb.co/Bf4fKGy/15.png",
+        "tipo": "amarillo",
+        "repeticiones": "15",
+        "duracion": ""
+    },
+    {
+        "id": 21,
+        "nombre": "Elevación de pierna",
+        "imagen": "https://i.ibb.co/Bf4fKGy/15.png",
+        "tipo": "rojo",
+        "repeticiones": "25",
+        "duracion": ""
+    },
+    {
+        "id": 22,
+        "nombre": "Media plancha",
+        "imagen": "https://i.ibb.co/ypnh2g4/8.png",
+        "tipo": "verde",
+        "repeticiones": "",
+        "duracion": "30"
+    },
+    {
+        "id": 23,
+        "nombre": "Media plancha",
+        "imagen": "https://i.ibb.co/ypnh2g4/8.png",
+        "tipo": "amarillo",
+        "repeticiones": "",
+        "duracion": "40"
+    },
+    {
+        "id": 24,
+        "nombre": "Media plancha",
+        "imagen": "https://i.ibb.co/ypnh2g4/8.png",
+        "tipo": "rojo",
+        "repeticiones": "",
+        "duracion": "60"
+    },
+    {
+        "id": 25,
+        "nombre": "Medias flexiones",
+        "imagen": "https://i.ibb.co/31sbJcQ/14.png",
+        "tipo": "verde",
+        "repeticiones": "15",
+        "duracion": ""
+    },
+    {
+        "id": 26,
+        "nombre": "Medias flexiones",
+        "imagen": "https://i.ibb.co/31sbJcQ/14.png",
+        "tipo": "amarillo",
+        "repeticiones": "20",
+        "duracion": ""
+    },
+    {
+        "id": 27,
+        "nombre": "Medias flexiones",
+        "imagen": "https://i.ibb.co/31sbJcQ/14.png",
+        "tipo": "rojo",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 28,
+        "nombre": "Sentadilla con apollo",
+        "imagen": "https://i.ibb.co/d2VN6rd/10.png",
+        "tipo": "verde",
+        "repeticiones": "15",
+        "duracion": ""
+    },
+    {
+        "id": 29,
+        "nombre": "Sentadilla con apollo",
+        "imagen": "https://i.ibb.co/d2VN6rd/10.png",
+        "tipo": "amarillo",
+        "repeticiones": "20",
+        "duracion": ""
+    },
+    {
+        "id": 30,
+        "nombre": "Sentadilla con apollo",
+        "imagen": "https://i.ibb.co/d2VN6rd/10.png",
+        "tipo": "rojo",
+        "repeticiones": "30",
+        "duracion": ""
+    },
+    {
+        "id": 31,
+        "nombre": "",
+        "imagen": "https://png.pngtree.com/png-clipart/20230913/original/pngtree-angeles-clipart-cute-angel-in-the-praying-pose-vector-illustration-cartoon-png-image_11060999.png",
+        "tipo": "celeste",
+        "repeticiones": "",
+        "duracion": ""
+    },
+    {
+        "id": 32,
+        "nombre": "",
+        "imagen": "https://png.pngtree.com/png-clipart/20230913/original/pngtree-angeles-clipart-cute-angel-in-the-praying-pose-vector-illustration-cartoon-png-image_11060999.png",
+        "tipo": "celeste",
+        "repeticiones": "",
+        "duracion": ""
+    },
+    {
+        "id": 33,
+        "nombre": "",
+        "imagen": "https://images.vexels.com/media/users/3/330487/isolated/preview/9b873c551a7d4217a29667b3a15a15df-cartoon-grim-reaper-holding-a-purple-scythe-parca-de-dibujos-animados-sosteniendo-una-guadana-purpura-ceifador-de-desenho-animado-segurando-uma-foice-roxa-cartoon-sensenmann-mit-lila-sense.png",
+        "tipo": "negro",
+        "repeticiones": "",
+        "duracion": ""
+    },
+    {
+        "id": 34,
+        "nombre": "",
+        "imagen": "https://images.vexels.com/media/users/3/330487/isolated/preview/9b873c551a7d4217a29667b3a15a15df-cartoon-grim-reaper-holding-a-purple-scythe-parca-de-dibujos-animados-sosteniendo-una-guadana-purpura-ceifador-de-desenho-animado-segurando-uma-foice-roxa-cartoon-sensenmann-mit-lila-sense.png",
+        "tipo": "negro",
+        "repeticiones": "",
+        "duracion": ""
+    },
+    {
+        "id": 35,
+        "nombre": "",
+        "imagen": "https://png.pngtree.com/png-clipart/20230629/original/pngtree-gold-shield-with-ribbon-on-white-background-vector-png-image_9236947.png",
+        "tipo": "dorado",
+        "repeticiones": "",
+        "duracion": ""
+    }
+]
